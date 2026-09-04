@@ -1,4 +1,4 @@
-# FoldCheck-Pro: Automated Structural Integrity & Biophysical Validation Suite
+# FoldCheck-Pro: Automated Protein Structural Integrity & Biophysical Validation Suite
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mirikrupkin/foldcheck-pro/blob/main/foldcheck-pro.ipynb)
@@ -7,7 +7,7 @@
 
 
 **Author:** [Dr. Miri Krupkin](https://linkedin.com/in/mirikrupkin) (Applied AI Research Scientist & Computational Biologist) 
-**Description:** Production-grade architecture for automated biophysical model validation, Hungarian-based multi-chain pairing, and integrated pLDDT/RASA structural state classification against empirical experimental ground truth.
+**Description:** Production-grade architecture for automated protein biophysical model validation, Hungarian-based multi-chain pairing, and integrated pLDDT/RASA structural state classification against empirical experimental ground truth.
 
 
 ---
